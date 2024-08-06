@@ -1,5 +1,5 @@
-// import  from '';
+const ANIMATION = {
+  lines: require('~assets/images/lottie/lines.json'),
+};
 
-// export {
-    
-//   };
+export {ANIMATION};
